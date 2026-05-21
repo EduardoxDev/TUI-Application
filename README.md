@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg" width="80" />
-  <h1>sysmon</h1>
+  <h1>TUI Application</h1>
   <p>Dashboard TUI de monitoramento do sistema em tempo real, feito em Go.</p>
 
   <a href="https://golang.org"><img src="https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
